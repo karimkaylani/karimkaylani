@@ -6,10 +6,10 @@ Prospective Software Engineer
 
 Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it from scratch like on my recent viral project [Lyricdle](https://github.com/karimkaylani/lyricdle) and teach it to other students as a TA for CS 88, a computer science course here on campus. I'm also super passionate about music, whether it's playing guitar or collecting vinyl and I also love to hike and take photos on film. 
 
-* 🌍  I'm based in San Francisco Bay Area
+* 🌍 Based in the San Francisco Bay Area
 * 🎓 UC Berkeley Computer Science, Class of 2024
 * 👨‍💻 Looking for Software Engineering Internships for Summer 2023
-* ✉️  You can reach me at [karimkaylani@gmail.com](mailto:karimkaylani@gmail.com)
+* ✉️ [karimkaylani@gmail.com](mailto:karimkaylani@gmail.com)
 
 
 ### Connect with me!
