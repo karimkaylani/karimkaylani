@@ -32,15 +32,15 @@ Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all thing
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/karimkaylani/lyricdle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=lyricdle&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimkaylani/alfred-sonoscontroller" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=alfred-sonoscontroller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/karimkaylani"><img src="https://github-readme-stats.vercel.app/api?username=karimkaylani&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karimkaylani's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/karimkaylani/lyricdle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=lyricdle&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimkaylani/alfred-sonoscontroller" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=alfred-sonoscontroller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Socials
 
