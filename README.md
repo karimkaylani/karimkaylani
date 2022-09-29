@@ -1,12 +1,14 @@
 Hi I'm Karim! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Software Developer
+Prospective Software Engineer
 -----------------------------
 
 Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it from scratch like on my recent viral project [Lyricdle](https://github.com/karimkaylani/lyricdle) and teach it to other students as a TA for CS 88, a computer science course here on campus. I'm also super passionate about music, whether it's playing guitar or collecting vinyl and I also love to hike and take photos on film. Please don't hesitate to reach out! :)
 
 * 🌍  I'm based in San Francisco Bay Area
+* 🎓 UC Berkeley Computer Science, Class of 2024
+* 👨‍💻 Looking for Software Engineering Internships for Summer 2023
 * ✉️  You can reach me at [karimkaylani@gmail.com](mailto:karimkaylani@gmail.com)
 
 ### Skills
@@ -30,13 +32,16 @@ Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all thing
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
+<b>Top Repositories</b>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/karimkaylani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karimkaylani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@karimkaylani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<div width="100%" align="center"><a href="https://github.com/karimkaylani/lyricdle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=lyricdle&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimkaylani/alfred-sonoscontroller" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimkaylani&repo=alfred-sonoscontroller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/karimkaylani"><img src="https://github-readme-stats.vercel.app/api?username=karimkaylani&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karimkaylani's GitHub stats" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/karimkaylani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karimkaylani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@karimkaylani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
