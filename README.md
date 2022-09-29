@@ -4,7 +4,7 @@ Hi I'm Karim! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Prospective Software Engineer
 -----------------------------
 
-Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it from scratch like on my recent viral project [Lyricdle](https://github.com/karimkaylani/lyricdle) and teach it to other students as a TA for CS 88, a computer science course here on campus. I'm also super passionate about music, whether it's playing guitar or collecting vinyl and I also love to hike and take photos on film. 
+Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it from scratch like on my recent viral project [Lyricdle](https://github.com/karimkaylani/lyricdle) and teach it to other students as a TA for CS 88, a computer science course here on campus. I'm also super passionate about music, whether it's playing guitar or collecting vinyl and I also love to hike and take photos on film. Please don't hesitate to reach out! :)
 
 * 🌍 Based in the San Francisco Bay Area
 * 🎓 UC Berkeley Computer Science, Class of 2024
