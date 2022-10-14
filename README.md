@@ -9,8 +9,8 @@ Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all thing
 * 🌍 Based in the San Francisco Bay Area
 * 🎓 UC Berkeley Computer Science, Class of 2024
 * 👨‍💻 Looking for Software Engineering Internships for Summer 2023
+* 📄 [Check out my resume!](https://drive.google.com/file/d/1_0gKjDz746u52cGr_TFROOoqgSo4oq9g/view?usp=sharing)
 * ✉️ [karimkaylani@gmail.com](mailto:karimkaylani@gmail.com)
-
 
 ### Connect with me!
 <p align="left"> <a href="https://www.linkedin.com/in/karimkaylani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
