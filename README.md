@@ -4,7 +4,7 @@ Hi, I'm Karim! ![](https://user-images.githubusercontent.com/18350557/176309783-
 Software Engineer
 -----------------------------
 
-Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it whether it's developing the flagship product at Alteryx during my internship or creating my viral passion project **[Lyricdle](https://github.com/karimkaylani/lyricdle)** – as well as teach it to other students as a TA for UC Berkeley’s CS 88. I'm also super passionate about music and love to play guitar and collect vinyl. Please don't hesitate to reach out! :)
+Hi, I'm Karim! I'm studying computer science at UC Berkeley and I love all things software. I especially love to build it, like developing the flagship product at Alteryx during my internship & building **[Lyricdle](https://github.com/karimkaylani/lyricdle)**, as well as teach it to other students as a TA for UC Berkeley’s CS 88. I'm also super passionate about music and love to play guitar and go to shows. Please don't hesitate to reach out! :)
 
 * 🌍 Based in the San Francisco Bay Area
 * 🎓 UC Berkeley Computer Science, Class of 2024
