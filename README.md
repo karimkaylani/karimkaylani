@@ -10,7 +10,6 @@ Please don't hesitate to reach out :)
 
 * 🌍 Based in the San Francisco Bay Area
 * 🎓 UC Berkeley Computer Science, Class of 2024
-* 📄 [Check out my resume!](https://drive.google.com/file/d/1_0gKjDz746u52cGr_TFROOoqgSo4oq9g/view?usp=sharing)
 * ✉️ [karimkaylani@gmail.com](mailto:karimkaylani@gmail.com)
 
 ### Connect with me!
